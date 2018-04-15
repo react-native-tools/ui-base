@@ -1,0 +1,27 @@
+{
+  "name": "rnt-ui-base",
+  "version": "0.0.2",
+  "description": "提供所有公共控件的基础能力",
+  "main": "index.js",
+  "author": "jackoder",
+  "license": "Apache-2.0",
+  "scripts": {
+    "build": "echo \"reserved by jackoder\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/react-native-tools/ui-base"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.2.1",
+    "babel-jest": "19.0.0",
+    "babel-preset-react-native": "1.9.1",
+    "eslint": "^3.16.1",
+    "eslint-plugin-babel": "^4.1.1",
+    "eslint-plugin-react": "^6.10.0",
+    "jest": "19.0.2",
+    "react-test-renderer": "15.4.2",
+    "react": "^16.0.0-beta.5",
+    "react-native": "0.49.3"
+  }
+}
